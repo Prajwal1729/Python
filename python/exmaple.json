@@ -1,0 +1,17 @@
+{
+    "firsname":"Prajwal",
+    "lastname":"Chavan",
+    "hobbies":["football","guitar","cricket"],
+    "age": 24,
+    "hasId":true,
+    "Id":[
+        {
+            "id1": "Pancard",
+            "number": "CLKC6080K"
+        },
+        {
+            "id2":"AdharCard",
+            "number": "219069050298"
+        }
+    ]
+}

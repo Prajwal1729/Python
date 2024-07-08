@@ -1,0 +1,13 @@
+{
+    "name": "Prajwal",
+    "age": 24,
+    "city": "Mumbai",
+    "hasId": false,
+    "titles": [
+        "Engineer",
+        "Programmer",
+        "DataAnalyst",
+        "SDE"
+    ],
+    "backup": null
+}
